@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hanning Su
-- 👀 I’m interested in math, statistics, computer science/artificial intelligence
+- 👀 I’m interested in statistics, mathematics, computer science/artificial intelligence
 - 🌱 I’m currently studying actuarial science at the University of Melbourne
 - 💞️ I’m looking to collaborate on (no idea yet...)
 - 📫 How to reach me suhanning1997@gmail.com
