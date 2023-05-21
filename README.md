@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hanning Su
-- 👀 I’m interested in statistics, mathematics, computer science/artificial intelligence
-- 🌱 I’m currently studying actuarial science at the University of Melbourne
+- 👀 I’m interested in statistics (especially survival analysis and nonparametric statistics), mathematics, computer science/artificial intelligence
+- 🌱 I’m currently studying Statistics at Columbia University
 - 💞️ I’m looking to collaborate on (no idea yet...)
-- 📫 How to reach me suhanning1997@gmail.com
+- 📫 How to reach hs3375@columbia.edu
 
 <!---
 suhanning1997/suhanning1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
